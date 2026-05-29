@@ -76,6 +76,7 @@ either, as this "reference implementation" tries to be as easy to read as possib
 - [iOrange/QoiFileTypeNet](https://github.com/iOrange/QoiFileTypeNet/releases) - QOI Plugin for Paint.NET
 - [iOrange/QOIThumbnailProvider](https://github.com/iOrange/QOIThumbnailProvider) - Add thumbnails for QOI images in Windows Explorer
 - [Tom94/tev](https://github.com/Tom94/tev) - another native QOI viewer (allows pixel peeping and comparison with other image formats)
+- [wkjarosz/hdrview](https://github.com/wkjarosz/hdrview) - research-oriented HDR/LDR image viewer with QOI read/write support; runs natively or in-browser
 - [qoiconverterx](https://apps.apple.com/br/app/qoiconverterx/id1602159820) QOI <=> PNG converter available on the Mac App Store
 - [kaetemi/qoi-ma](https://github.com/kaetemi/qoi-max) - QOI Bitmap I/O Plugin for 3ds Max
 - [rtexviewer](https://raylibtech.itch.io/rtexviewer) - texture viewer, supports QOI
@@ -95,6 +96,8 @@ either, as this "reference implementation" tries to be as easy to read as possib
 - [tacent view](https://github.com/bluescan/tacentview) - Image and texture viewer, supports QOI
 - [colemanrgb/qoi2spr](https://github.com/colemanrgb/qoi2spr) - A variety of applications for decoding and encoding of QOI images on [RISC OS](https://www.riscosopen.org/)
 - [Muppetsg2/UnrealQOI](https://github.com/Muppetsg2/UnrealQOI) - QOI Format Import/Export plugin for Unreal Engine 5
+- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Adds QOI file preview and thumbnails support to Windows Explorer
+- [Mupceet/qoi-viewer](https://github.com/Mupceet/qoi-viewer) - QOI Viewer for Visual Studio Code
 
 ## Implementations & Bindings of QOI
 
@@ -158,7 +161,7 @@ either, as this "reference implementation" tries to be as easy to read as possib
 - [alex-s168/uiua-qoi](https://github.com/alex-s168/uiua-qoi) - Uiua
 - [hchargois/qoi](https://github.com/hchargois/qoi) - Go
 - [coralpink/qoi.cr](https://codeberg.org/coralpink/qoi.cr) - Crystal
-- [Pivok7/zqoi](https://github.com/Pivok7/zqoi) - Zig
+- [Pivok7/zqoi](https://codeberg.org/Pivok/zqoi) - Zig
 - [Muppetsg2/koi](https://github.com/Muppetsg2/koi) - stb-like single-file, public domain (or MIT-licensed) image processing libraries for C/C++
 
 ## QOI Support in Other Software
@@ -187,6 +190,7 @@ either, as this "reference implementation" tries to be as easy to read as possib
 - [Google Earth Pro](https://www.google.com/intl/en_uk/earth/about/versions/#download-pro) - supports Movie Maker export as sequence of QOI images since 7.3.6
 - [GIMP](https://www.gimp.org) - supports decoding and encoding QOI images since 3.0
 - [ObjFW](https://objfw.nil.im) - supports decoding and encoding QOI images since 1.5
+- [Minimal Image Viewer](https://github.com/deminimis/minimalimageviewer) - Fast & Lightweight image viewer for Windows
 
 ## Packages
 
